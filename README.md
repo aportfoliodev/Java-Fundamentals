@@ -1,4 +1,4 @@
-# CodingNomads Java Fundamentals - Adriana's Edit #3
+# CodingNomads Java Fundamentals - Adriana's Edit #3 (branch)
 
 Thiect contains a variety of textbook examples and labs focused on Java labs_examples.fundamentals.
 
